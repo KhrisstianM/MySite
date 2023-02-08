@@ -160,3 +160,7 @@ p {
     margin: 40px auto 60px;
     width: 40%;
 }
+
+.attribution {
+    font-size: 1rem;
+}
